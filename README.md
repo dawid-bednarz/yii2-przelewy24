@@ -98,3 +98,4 @@ class PaymentController extends \yii\web\Controller {
 Require
 =====================
 PHP >= 5.4
+yii2
