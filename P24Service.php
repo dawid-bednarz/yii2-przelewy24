@@ -1,6 +1,6 @@
 <?php
 
-namespace daweb\przelewy_24;
+namespace daweb\przelewy24;
 
 /**
  * http://www.przelewy24.pl/files/cms/2/przelewy24_specyfikacja_3_2.pdf
