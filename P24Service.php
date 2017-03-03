@@ -155,6 +155,7 @@ class P24Service extends \yii\base\Component {
                     'p24_merchant_id' => $form->p24_merchant_id,
                     'p24_pos_id' => $form->p24_pos_id,
                     'p24_session_id' => $form->p24_session_id,
+                    'p24_order_id' => $form->p24_order_id,
                     'p24_amount' => $form->p24_amount,
                     'p24_currency' => $form->p24_currency
         ]);
